@@ -2,13 +2,21 @@
 
 > **Read-only archive of released versions of kvothe/pipetables.** Not for installation: use [Packagist](https://packagist.org/packages/kvothe/pipetables) or the [upstream repository](https://github.com/oaklinq/flarum-ext-pipetables).
 
-**0** versions archived · Latest: [`1.0.9`](https://github.com/flarchive/kvothe-pipetables/tree/archive/v1.0.9) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**9** versions archived · Latest: [`1.0.9`](https://github.com/flarchive/kvothe-pipetables/tree/archive/v1.0.9) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2018-02-28 | `>=0.1.0-beta.7` | [Browse](https://github.com/flarchive/kvothe-pipetables/tree/archive/v1.0.0) |
+| `1.0.3` | 2018-02-28 | `>=0.1.0-beta.7` | [Browse](https://github.com/flarchive/kvothe-pipetables/tree/archive/v1.0.3) |
+| `1.0.4` | 2018-02-28 | `>=0.1.0-beta.7` | [Browse](https://github.com/flarchive/kvothe-pipetables/tree/archive/v1.0.4) |
+| `1.0.5` | 2018-03-01 | `>=0.1.0-beta.7` | [Browse](https://github.com/flarchive/kvothe-pipetables/tree/archive/v1.0.5) |
+| `1.0.6` | 2018-03-01 | `>=0.1.0-beta.7` | [Browse](https://github.com/flarchive/kvothe-pipetables/tree/archive/v1.0.6) |
+| `1.0.7` | 2018-03-02 | `>=0.1.0-beta.7` | [Browse](https://github.com/flarchive/kvothe-pipetables/tree/archive/v1.0.7) |
+| `1.0.8` | 2018-03-05 | `>=0.1.0-beta.7` | [Browse](https://github.com/flarchive/kvothe-pipetables/tree/archive/v1.0.8) |
+| `1.0.9` | 2019-02-15 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/kvothe-pipetables/tree/archive/v1.0.9) |
+| `v0.1.9` | 2019-02-15 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/kvothe-pipetables/tree/archive/v0.1.9) |
 
 Catalog entry: [packages/kvothe-pipetables.json](https://github.com/flarchive/archive-index/blob/main/packages/kvothe-pipetables.json)
 
